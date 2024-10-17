@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Anesthesiology",
+    "description": "Providing pain relief and restoring a patient's physiological homeostasis during surgical procedures.",
+    "icon": "fa-syringe"
+  },
+  {
+    "title": "Cardiology",
+    "description": "Specializing in heart disorders, diagnosing and treating heart diseases and circulatory system issues.",
+    "icon": "fa-heartbeat"
+  },
+  {
+    "title": "Dermatology",
+    "description": "Treating skin, hair, and nail conditions such as acne, eczema, and skin cancer.",
+    "icon": "fa-skin"
+  },
+  {
+    "title": "Emergency Medicine",
+    "description": "Providing 24/7 care for acute illnesses, injuries, trauma care, and resuscitation.",
+    "icon": "fa-ambulance"
+  },
+  {
+    "title": "Gastroenterology",
+    "description": "Focused on the digestive system, treating conditions like ulcers, acid reflux, and liver diseases.",
+    "icon": "fa-stomach"
+  },
+  {
+    "title": "General Surgery",
+    "description": "Performing surgeries on abdominal organs such as the stomach, liver, and pancreas.",
+    "icon": "fa-scalpel"
+  },
+  {
+    "title": "Gynecology",
+    "description": "Focusing on female reproductive health, diagnosing and treating menstrual disorders, infertility, and cancers.",
+    "icon": "fa-female"
+  },
+  {
+    "title": "Hematology",
+    "description": "Specializing in blood disorders such as anemia, clotting disorders, and blood cancers.",
+    "icon": "fa-tint"
+  },
+  {
+    "title": "Intensive Care Medicine (ICU)",
+    "description": "Providing care for critically ill patients needing advanced respiratory and circulatory support.",
+    "icon": "fa-procedures"
+  },
+  {
+    "title": "Internal Medicine",
+    "description": "Preventing, diagnosing, and treating diseases in adult patients, managing chronic conditions.",
+    "icon": "fa-user-md"
+  },
+  {
+    "title": "Nephrology",
+    "description": "Treating kidney diseases and managing conditions such as kidney stones and chronic kidney disease.",
+    "icon": "fa-kidneys"
+  },
+  {
+    "title": "Neurology",
+    "description": "Diagnosing and treating nervous system disorders such as epilepsy, stroke, and Parkinson’s disease.",
+    "icon": "fa-brain"
+  },
+  {
+    "title": "Obstetrics and Gynecology",
+    "description": "Providing care for pregnancy, childbirth, and female reproductive health.",
+    "icon": "fa-baby"
+  },
+  {
+    "title": "Oncology",
+    "description": "Specializing in the diagnosis and treatment of cancer with chemotherapy, radiation, and surgery.",
+    "icon": "fa-ribbon"
+  },
+  {
+    "title": "Orthopedics",
+    "description": "Diagnosing and treating musculoskeletal issues, including fractures and arthritis.",
+    "icon": "fa-bone"
+  },
+  {
+    "title": "Otorhinolaryngology (ENT)",
+    "description": "Treating disorders of the ear, nose, and throat, including sinusitis and hearing loss.",
+    "icon": "fa-deaf"
+  },
+  {
+    "title": "Pediatrics",
+    "description": "Providing medical care for infants, children, and adolescents, managing childhood illnesses.",
+    "icon": "fa-child"
+  },
+  {
+    "title": "Physiotherapy",
+    "description": "Helping individuals recover from injuries, improve mobility, and manage pain through therapy.",
+    "icon": "fa-dumbbell"
+  },
+  {
+    "title": "Radiology",
+    "description": "Using imaging techniques such as X-rays, CT scans, and MRIs to diagnose medical conditions.",
+    "icon": "fa-x-ray"
+  },
+  {
+    "title": "Rheumatology",
+    "description": "Diagnosing and treating disorders affecting the joints, muscles, and connective tissues.",
+    "icon": "fa-hands-helping"
+  },
+  {
+    "title": "Surgery",
+    "description": "Performing a wide range of surgeries, including minimally invasive and emergency procedures.",
+    "icon": "fa-scalpel"
+  },
+  {
+    "title": "Urology",
+    "description": "Treating conditions of the urinary tract and male reproductive organs such as kidney stones and prostate disorders.",
+    "icon": "fa-user-md"
+  },
+  {
+    "title": "Dentistry",
+    "description": "Providing care for oral health, including teeth, gums, and related issues like fillings and root canals.",
+    "icon": "fa-tooth"
+  },
+  {
+    "title": "Pulmonology",
+    "description": "Managing respiratory disorders such as asthma, COPD, and lung cancer.",
+    "icon": "fa-lungs"
+  },
+  {
+    "title": "Infectious Diseases",
+    "description": "Diagnosing and treating illnesses caused by bacteria, viruses, fungi, or parasites.",
+    "icon": "fa-virus"
+  },
+  {
+    "title": "Psychiatry",
+    "description": "Providing mental health care and treating conditions like depression, anxiety, and bipolar disorder.",
+    "icon": "fa-brain"
+  },
+  {
+    "title": "Endocrinology",
+    "description": "Managing hormone-related conditions such as diabetes, thyroid disorders, and metabolic issues.",
+    "icon": "fa-dna"
+  },
+  {
+    "title": "Dialysis",
+    "description": "Providing dialysis for patients with kidney failure, removing waste and excess fluid from the blood.",
+    "icon": "fa-water"
+  },
+  {
+    "title": "Sleep Lab",
+    "description": "Diagnosing and treating sleep disorders like sleep apnea and insomnia.",
+    "icon": "fa-bed"
+  }
+]
