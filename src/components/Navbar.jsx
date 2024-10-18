@@ -64,7 +64,7 @@ const Navbar = () => {
             </a>
             <div className="dropdown-menu rounded-0 rounded-bottom m-0">
               <NavLink
-                to="/doctor"
+                to="/doctors"
                 className={({ isActive }) =>
                   `dropdown-item ${isActive ? "active" : ""}`
                 }

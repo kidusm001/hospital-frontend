@@ -6,7 +6,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Appointment from "./pages/Appointment";
 import Service from "./pages/Service";
-import Team from "./pages/Team";
+import Doctors from "./pages/Doctors";
 
 // import reactLogo from "./assets/react.svg";
 // import viteLogo from "/vite.svg";
@@ -31,7 +31,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/appointment" element={<Appointment />} />
           <Route path="/service" element={<Service />} />
-          <Route path="/doctors" element={<Team />} />
+          <Route path="/doctors" element={<Doctors />} />
         </Routes>
       </QueryClientProvider>
     </BrowserRouter>

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DR. PAK CHANGSIK",
+    "specialty": "General Surgery, Abdominal Surgery",
+    "university": "Pyongyang Medical University Hospital",
+    "available": "Monday to Friday (8:00 AM – 5:00 PM), Saturday (8:00 AM – 12:00 PM)",
+    "consultation_fee": "500 Br"
+  },
+  {
+    "name": "DR. SEYOUM KASSA",
+    "specialty": "Cardiothoracic Surgery, General Surgery",
+    "university": "",
+    "available": "Tuesday, Thursday, Saturday (10:00 AM)",
+    "consultation_fee": "500 Br"
+  },
+  {
+    "name": "DR. YIBELTAL ZEWDIE TIRUNEH",
+    "specialty": "Internal Medicine",
+    "university": "Addis Ababa University",
+    "available": "Monday to Friday (8:00 AM – 5:00 PM), Saturday (8:00 AM – 12:00 PM)",
+    "consultation_fee": "450 Br"
+  },
+  {
+    "name": "DR. MENGISTU ERKE",
+    "specialty": "Gastroenterology, Hepatology",
+    "university": "",
+    "available": "Tuesday, Thursday (4:00 PM), Saturday (10:00 AM)",
+    "consultation_fee": "500 Br"
+  },
+  {
+    "name": "DR. WORKIYE TIGABE MOLLA",
+    "specialty": "Pediatric Surgery",
+    "university": "",
+    "available": "Wednesday (2:00 – 6:00 PM)",
+    "consultation_fee": "400 Br"
+  },
+  {
+    "name": "DR. ABIY WORKU HAILE",
+    "specialty": "Orthopedic Surgery, Trauma, Arthroplasty",
+    "university": "",
+    "available": "Wednesday (2:30 PM), Saturday (10:00 AM)",
+    "consultation_fee": "500 Br"
+  },
+  {
+    "name": "DR. KASSAYE ASHINE KIBRET",
+    "specialty": "ENT (Ear, Nose, Throat)",
+    "university": "",
+    "available": "Monday, Tuesday, Thursday (4:00 PM – 7:00 PM), Saturday (11:30 AM – 2:30 PM)",
+    "consultation_fee": "500 Br"
+  },
+  {
+    "name": "DR. ABEL HABTAMU ZENEBE",
+    "specialty": "General Medicine",
+    "university": "Addis Ababa University",
+    "available": "Monday to Friday (8:00 AM – 5:00 PM), Saturday (8:00 AM – 12:00 PM)",
+    "consultation_fee": "350 Br"
+  },
+  {
+    "name": "DR. BIRUK MESFIN",
+    "specialty": "Neurosurgery",
+    "university": "",
+    "available": "Tuesday, Friday (3:30 PM – 6:00 PM)",
+    "consultation_fee": "500 Br"
+  },
+  {
+    "name": "DR. MIKIYAS TESFAHUN",
+    "specialty": "General Medicine",
+    "university": "",
+    "available": "Day or Night as per shift",
+    "consultation_fee": "350 Br"
+  }
+]
